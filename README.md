@@ -6,6 +6,5 @@
 
 data tables: employee(員工) , orders(訂單) ,  menus(菜單) , order detail(訂單明細) , restaurants(餐廳)
              
-已設定 PK 和 FK
 
 
